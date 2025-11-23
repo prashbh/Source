@@ -1061,7 +1061,7 @@ Search                         LOGO                    Login Subscribe
 }
 
 .gh-header.is-magazine :is(.gh-header-left, .gh-header-right) .gh-card:last-child .gh-card-image {
-    display: none;
+    /* display: none; */
 }
 
 .gh-header.is-magazine .gh-header-inner > div .gh-card-excerpt {
